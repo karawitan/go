@@ -1,3 +1,3 @@
-module bb10.kalou.net/greetings
+module github.com/karawitan/greetings
 
 go 1.14
