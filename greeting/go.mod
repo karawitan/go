@@ -1,3 +1,4 @@
-module github.com/karawitan/go/greetings
+module github.com/karawitan/go/greeting
+
 
 go 1.14
